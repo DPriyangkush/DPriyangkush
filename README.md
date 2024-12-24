@@ -39,22 +39,14 @@ I'm a **third-year Computer Science student** specializing in **web development*
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe_Acrobat_Reader-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
-![Adobe Fonts](https://img.shields.io/badge/Adobe_Fonts-323232?style=for-the-badge&logo=adobefonts&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-1B72BE?style=for-the-badge&logo=affinityphoto&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=affinitydesigner&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
+### 🌟 Fun Badges
+![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Coffee](https://img.shields.io/badge/Fueled_By-Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)
+
 
 ### 📊 GitHub Stats
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulD05&show_icons=true&theme=radical)
@@ -70,8 +62,24 @@ I'm a **third-year Computer Science student** specializing in **web development*
 
 ---
 
+
+### 🎵 Spotify Now Playing
+![Spotify](https://novatorem.vercel.app/api/spotify)
+
+
+
 ### 🌟 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulD05&theme=react-dark)
+
+---
+
+
+
+### 🎯 Ask Me About
+- Frontend Development
+- React and Firebase
+- Building Responsive Websites
+- Creative Problem Solving
 
 ---
 
@@ -79,14 +87,6 @@ I'm a **third-year Computer Science student** specializing in **web development*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahuld05)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rahuld05)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulD05)
-
----
-
-### 🎯 Ask Me About
-- Frontend Development
-- React and Firebase
-- Building Responsive Websites
-- Creative Problem Solving
 
 ---
 
