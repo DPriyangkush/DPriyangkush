@@ -1,4 +1,4 @@
-# Hi there, I'm Rahul! 👋
+# Hey there, I'm Priyangkush! 👋
 
 ### 🌟 About Me
 I'm a **third-year Computer Science student** specializing in **web development** and **social media management services**. Passionate about exploring **web development**, **machine learning**, and **software engineering**, I'm always eager to learn and grow by diving into innovative solutions.
