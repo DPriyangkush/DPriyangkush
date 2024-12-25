@@ -45,7 +45,8 @@ I'm a **third-year Computer Science student** specializing in **web development*
 ### 🌟 Fun Badges
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Coffee](https://img.shields.io/badge/Fueled_By-Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)
+![Tea](https://img.shields.io/badge/Fueled_By-Tea-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)
+
 
 
 ### 📊 GitHub Stats
