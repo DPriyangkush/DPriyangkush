@@ -64,6 +64,16 @@ I'm a **third-year Computer Science student** specializing in **web development*
 
 ---
 
+### 🏆 My Hobbies
+![Gaming](https://img.shields.io/badge/Gaming-🎮-purple?style=for-the-badge)
+![Photography](https://img.shields.io/badge/Photography-📷-blue?style=for-the-badge)
+![Music](https://img.shields.io/badge/Music-🎧-green?style=for-the-badge)
+![Fitness](https://img.shields.io/badge/Fitness-🏋️‍♂️-red?style=for-the-badge)
+
+
+
+
+
 
 ### 🎵 Spotify Now Playing
 ![Spotify](https://novatorem.vercel.app/api/spotify)
