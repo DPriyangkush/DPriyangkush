@@ -49,11 +49,13 @@ I'm a **third-year Computer Science student** specializing in **web development*
 
 
 ### 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahulD05&theme=dark)
+
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulD05&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulD05&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahulD05&theme=dark)
+
 
 ---
 
