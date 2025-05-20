@@ -3,7 +3,7 @@
 ### 🌟 About Me
 I'm a **third-year Computer Science student** specializing in **web development** and **social media management services**. Passionate about exploring **web development**, **machine learning**, and **software engineering**, I'm always eager to learn and grow by diving into innovative solutions.
 
-- 🌐 **Portfolio**: [Check out my work!](https://rahuld05.github.io/portfolio)
+- 🌐 **Portfolio**: [Check out my work!](https://DPriyangkush.github.io/portfolio)
 - 💻 **Currently Working On**: WorkScape - Connecting You with Opportunities
 - 📍 **Location**: Mumbai, Maharashtra, India
 
@@ -49,18 +49,18 @@ I'm a **third-year Computer Science student** specializing in **web development*
 
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahulD05&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DPriyangkush&theme=dark)
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulD05&show_icons=true&theme=radical)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=DPriyangkush&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulD05&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DPriyangkush&layout=compact&theme=radical)
 
 
 
 ---
 
 ### 🏆 Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=RahulD05&theme=onedark&row=1&column=6)
+![Trophy](https://github-profile-trophy.vercel.app/?username=DPriyangkush&theme=onedark&row=1&column=6)
 
 ---
 
@@ -81,7 +81,7 @@ I'm a **third-year Computer Science student** specializing in **web development*
 
 
 ### 🌟 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulD05&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DPriyangkush&theme=react-dark)
 
 ---
 
@@ -98,7 +98,7 @@ I'm a **third-year Computer Science student** specializing in **web development*
 ### 💬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/priyangkush)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rahuld05)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulD05)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DPriyangkush)
 
 ---
 
