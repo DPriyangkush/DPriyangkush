@@ -3,7 +3,7 @@
 ### 🌟 About Me
 I'm a **third-year Computer Science student** specializing in **web development** and **social media management services**. Passionate about exploring **web development**, **machine learning**, and **software engineering**, I'm always eager to learn and grow by diving into innovative solutions.
 
-- 🌐 **Portfolio**: [Check out my work!](https://DPriyangkush.github.io/portfolio)
+- 🌐 **Portfolio**: [Check out my work!](https://4nkushdev.vercel.app)
 - 💻 **Currently Working On**: WorkScape - Connecting You with Opportunities
 - 📍 **Location**: Mumbai, Maharashtra, India
 
