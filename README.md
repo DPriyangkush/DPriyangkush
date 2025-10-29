@@ -1,11 +1,7 @@
 # Hey there, I'm Priyangkush! 👋
 
 ### 🌟 About Me
-I’m a **Computer Science graduate** passionate about **Data Analysis** and **Software Engineering**, with a strong interest in leveraging data-driven insights to build efficient and scalable solutions.  
-My expertise spans **data analysis, software development, and web technologies**, enabling me to design and implement systems that combine analytical precision with robust functionality.  
-
-I have hands-on experience in **data visualization, automation, and full-stack development**, which allows me to bridge the gap between data analytics and software engineering.  
-I’m passionate about applying modern technologies to **optimize processes, enhance decision-making**, and deliver measurable business impact.
+I’m a **Computer Science graduate** passionate about **Data Analysis** and **Software Engineering**, with a strong interest in leveraging data-driven insights to build efficient and scalable solutions. My expertise spans **data analysis, software development, and web technologies**, enabling me to design and implement systems that combine analytical precision with robust functionality. I have hands-on experience in **data visualization, automation, and full-stack development**, which allows me to bridge the gap between data analytics and software engineering. I’m passionate about applying modern technologies to **optimize processes, enhance decision-making**, and deliver measurable business impact.
 
 - 🌐 **Portfolio**: [Check out my work!](https://4nkushdev.vercel.app)  
 - 💻 **Currently Working On**: Data-driven web applications  
